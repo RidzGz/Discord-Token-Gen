@@ -28,7 +28,7 @@ banner =f"""{Fore.BLUE}
 """
 
 class Settings:
-    capmonster = ""
+    capmonster = "344e08d851c7fbc08c673e2ca2103cf0"
     onlinesimru = "B8vGyS7huQ6JR2R-7MQvY8bt-b76mzLn4-BEY5ZZjq-AMkfT78vc3CTEVA"
     # random select proxy
     proxy = open("proxies.txt","r").read().split("\n")
